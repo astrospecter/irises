@@ -1,0 +1,12 @@
+measurements associated with each iris:
+    length and width of pedals
+    length and width of sepals 
+goal: predict species of new irises from three different species:
+    iris setosa
+    iris virginica
+    iris versicolor
+Data has 150 samples with 4 features each  
+    sepal length
+    sepal width
+    petal length
+    petal width
