@@ -10,3 +10,7 @@ Data has 150 samples with 4 features each
     sepal width
     petal length
     petal width
+Use k-nearest neighbors classifier
+    to make prediction for new data point, algorithm finds point in training set, then it assigns label of this training point to the new data point
+    k in k-nearest neighbors = instead of only using the closest neighbor to the data point, we can consider any fixed number k of neighbors in training    
+        use one neighbor in this example
