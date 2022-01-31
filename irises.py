@@ -1,5 +1,6 @@
 # author: Lina Zhu
-# Used for skeleton of the code, libraries, etc. : https://medium.com/gft-engineering/start-to-learn-machine-learning-with-the-iris-flower-classification-challenge-4859a920e5e3
+# Used for skeleton of the code, libraries, k-nearest neighbors approach etc.: 
+#   https://medium.com/gft-engineering/start-to-learn-machine-learning-with-the-iris-flower-classification-challenge-4859a920e5e3
 
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
